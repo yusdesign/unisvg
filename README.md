@@ -15,7 +15,7 @@ A powerful Python tool that converts Unicode characters to clean, centered SVG p
 
 ## 🎯 Quick Example
 
-Here's what ⨳ (U+2A33) looks like converted with NotoSansMath:
+Here's what ⨳ (U+2A33) SMASH PRODUCT SIGN looks like converted with NotoSansMath:
 
 <img src="smash_noto.svg" width="128" height="128" alt="⨳ symbol example">
 
@@ -53,9 +53,9 @@ python unisvg.py ⨳ -o symbol.svg
 📦 Font Choices
 
 Font Best For Style Example
-notomath Mathematical symbols Modern, clean <img src="smash_noto.svg" width="32" height="32">
-symbola Historical symbols Broad Unicode <img src="examples/smash_symbola.svg" width="32" height="32">
-notosans General text Sans-serif <img src="examples/fire.svg" width="32" height="32">
+notomath Mathematical symbols Modern, clean <img src="smash_noto.svg" width="32" height="32">  
+symbola Historical symbols Broad Unicode <img src="examples/smash_symbola.svg" width="32" height="32">  
+notosans General text Sans-serif <img src="examples/fire.svg" width="32" height="32">  
 
 🎯 Usage Examples
 
