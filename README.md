@@ -53,9 +53,9 @@ python unisvg.py ⨳ -o symbol.svg
 📦 Font Choices
 
 Font Best For Style Example
-notomath Mathematical symbols Modern, clean <img src="https://raw.githubusercontent.com/yusdesign/unisvg/main/smash_noto.svg" width="32" height="32">
-symbola Historical symbols Broad Unicode <img src="https://raw.githubusercontent.com/yusdesign/unisvg/main/smash_symbola.svg" width="32" height="32">
-notosans General text Sans-serif <img src="https://raw.githubusercontent.com/yusdesign/unisvg/main/smash_notosans.svg" width="32" height="32">
+notomath Mathematical symbols Modern, clean <img src="smash_noto.svg" width="32" height="32">
+symbola Historical symbols Broad Unicode <img src="examples/smash_symbola.svg" width="32" height="32">
+notosans General text Sans-serif <img src="examples/smash_notosans.svg" width="32" height="32">
 
 🎯 Usage Examples
 
