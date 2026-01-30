@@ -54,11 +54,11 @@ python unisvg.py ⨳ -o symbol.svg
 
 Font Best For Style Example
 #### notomath  
-Mathematical symbols Modern, clean <img src="smash_noto.svg" width="64" height="64" vertical-align="middle !important">  
+Mathematical symbols Modern, clean <img src="smash_noto.svg" width="64" height="64" align="middle">  
 #### symbola  
-Historical symbols Broad Unicode <img src="examples/smash_symbola.svg" width="64" height="64" vertical-align="middle !important">  
+Historical symbols Broad Unicode <img src="examples/smash_symbola.svg" width="64" height="64" align="middle">  
 #### notosans  
-General text Sans-serif <img src="examples/fire.svg" width="64" height="64" vertical-align="middle !important">  
+General text Sans-serif <img src="examples/fire.svg" width="64" height="64" align="middle">  
 
 🎯 Usage Examples
 
