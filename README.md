@@ -247,29 +247,29 @@ pip install -r requirements.txt
 
 📄 License
 
-· Code: MIT License
-· Fonts: Respective font licenses (SIL OFL, etc.)
-· Symbols: Unicode Standard
+· Code: MIT License  
+· Fonts: Respective font licenses (SIL OFL, etc.)  
+· Symbols: Unicode Standard  
 
 🙏 Acknowledgments
 
-· Unicode Consortium for character standards
-· Google Fonts for Noto Sans family
-· George Douros for Symbola font
-· FontTools developers for Python library
+· Unicode Consortium for character standards  
+· Google Fonts for Noto Sans family  
+· George Douros for Symbola font  
+· FontTools developers for Python library  
 
 📚 Resources
 
-· Unicode Character Database
-· Noto Fonts Project
-· Symbola Font
-· FontTools Documentation
+· Unicode Character Database  
+· Noto Fonts Project  
+· Symbola Font  
+· FontTools Documentation  
 
 ---
 
-Star this repo if you find it useful! ⭐
+Star this repo if you find it useful! ⭐  
 
-Created for designers and developers who need clean, scalable Unicode symbols without font rendering issues.
+*Created for designers and developers who need clean, scalable Unicode symbols without font rendering issues.*
 
 
 ```bash
@@ -278,3 +278,5 @@ python unisvg.py ⨳ --font notomath -o smash_noto.svg
 python unisvg.py ⨳ --font symbola -o smash_symbola.svg
 python unisvg.py ⨳ --font notosans -o smash_notosans.svg
 ```
+
+* *yusdesign, L, 2026*
